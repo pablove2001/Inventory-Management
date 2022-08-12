@@ -43,6 +43,6 @@ This Java project allows you to manage your inventory fast and easy . You can ma
 
 ```bash
 
-git clone https://github.com/pablove2001/To-Do-List.git
+git clone https://github.com/pablove2001/Inventory-Management.git
 
 ```
